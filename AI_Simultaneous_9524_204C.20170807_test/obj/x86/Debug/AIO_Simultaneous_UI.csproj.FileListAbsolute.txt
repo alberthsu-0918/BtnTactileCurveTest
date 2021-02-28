@@ -1,0 +1,89 @@
+D:\PCI-9527\比亞迪\AI_Simultaneous_BYD.112816\bin\Debug\AIO_Simultaneous_UI.exe
+D:\PCI-9527\比亞迪\AI_Simultaneous_BYD.112816\bin\Debug\AIO_Simultaneous_UI.pdb
+D:\PCI-9527\比亞迪\AI_Simultaneous_BYD.112816\obj\x86\Debug\AIO_Simultaneous_UI.csprojResolveAssemblyReference.cache
+D:\PCI-9527\比亞迪\AI_Simultaneous_BYD.112816\obj\x86\Debug\AIO_Simultaneous_UI.frm_main.resources
+D:\PCI-9527\比亞迪\AI_Simultaneous_BYD.112816\obj\x86\Debug\AIO_Simultaneous_UI.Form2.resources
+D:\PCI-9527\比亞迪\AI_Simultaneous_BYD.112816\obj\x86\Debug\AIO_Simultaneous_UI.Properties.Resources.resources
+D:\PCI-9527\比亞迪\AI_Simultaneous_BYD.112816\obj\x86\Debug\AIO_Simultaneous_UI.csproj.GenerateResource.Cache
+D:\PCI-9527\比亞迪\AI_Simultaneous_BYD.112816\obj\x86\Debug\AIO_Simultaneous_UI.exe
+D:\PCI-9527\比亞迪\AI_Simultaneous_BYD.112816\obj\x86\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\AI_Simultaneous_BYD.112916\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\AI_Simultaneous_BYD.112916\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.csprojResolveAssemblyReference.cache
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.frm_main.resources
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.Form2.resources
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.Properties.Resources.resources
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.csproj.GenerateResource.Cache
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\bin\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\bin\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\bin\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\bin\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.frm_main.resources
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.Form2.resources
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.Properties.Resources.resources
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Demo\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.csproj.GenerateResource.Cache
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\bin\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\bin\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.frm_main.resources
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.Form2.resources
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.Properties.Resources.resources
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.csproj.GenerateResource.Cache
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_BYD.112916\obj\x86\Debug\AIO_Simultaneous_UI.csprojResolveAssemblyReference.cache
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_9525_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_9525_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_9525_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.csprojResolveAssemblyReference.cache
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_9525_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.frm_main.resources
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_9525_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.Form2.resources
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_9525_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.Properties.Resources.resources
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_9525_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.csproj.GenerateResource.Cache
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_9525_204C.20170428\bin\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\Phone Btn Test Demo\Tactile Curve\AI_Simultaneous_9524\AI_Simultaneous_9525_204C.20170428\bin\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9525_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9525_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9525_204C.20170428\bin\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9525_204C.20170428\bin\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9525_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.frm_main.resources
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9525_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.Properties.Resources.resources
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9525_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.csproj.GenerateResource.Cache
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428\bin\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428\bin\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.frm_main.resources
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.Properties.Resources.resources
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.csproj.GenerateResource.Cache
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428\obj\x86\Debug\AIO_Simultaneous_UI.csprojResolveAssemblyReference.cache
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428_test\obj\x86\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428_test\obj\x86\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428_test\bin\Debug\AIO_Simultaneous_UI.exe
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428_test\bin\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428_test\obj\x86\Debug\AIO_Simultaneous_UI.csprojResolveAssemblyReference.cache
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428_test\obj\x86\Debug\AIO_Simultaneous_UI.Properties.Resources.resources
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428_test\obj\x86\Debug\AIO_Simultaneous_UI.csproj.GenerateResource.Cache
+C:\Users\Zake6000\Desktop\AI_Simultaneous_9524_204C.20170428_test\obj\x86\Debug\AIO_Simultaneous_UI.frm_main.resources
+C:\Users\vincent.chu\Desktop\AI_Simultaneous_9524_204C.20170428_test\obj\x86\Debug\AIO_Simultaneous_UI.exe
+C:\Users\vincent.chu\Desktop\AI_Simultaneous_9524_204C.20170428_test\obj\x86\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\vincent.chu\Desktop\AI_Simultaneous_9524_204C.20170428_test\bin\Debug\AIO_Simultaneous_UI.exe
+C:\Users\vincent.chu\Desktop\AI_Simultaneous_9524_204C.20170428_test\bin\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\vincent.chu\Desktop\AI_Simultaneous_9524_204C.20170428_test\obj\x86\Debug\AIO_Simultaneous_UI.csprojResolveAssemblyReference.cache
+C:\Users\vincent.chu\Desktop\AI_Simultaneous_9524_204C.20170428_test\obj\x86\Debug\AIO_Simultaneous_UI.frm_main.resources
+C:\Users\vincent.chu\Desktop\AI_Simultaneous_9524_204C.20170428_test\obj\x86\Debug\AIO_Simultaneous_UI.Properties.Resources.resources
+C:\Users\vincent.chu\Desktop\AI_Simultaneous_9524_204C.20170428_test\obj\x86\Debug\AIO_Simultaneous_UI.csproj.GenerateResource.Cache
+D:\PCI-9524\204C_9524\AI_Simultaneous_9524_204C.20170807_test\obj\x86\Debug\AIO_Simultaneous_UI.exe
+D:\PCI-9524\204C_9524\AI_Simultaneous_9524_204C.20170807_test\obj\x86\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\MVA\Desktop\button\AI_Simultaneous_9524_204C.20170807_test\bin\Debug\AIO_Simultaneous_UI.exe
+C:\Users\MVA\Desktop\button\AI_Simultaneous_9524_204C.20170807_test\obj\x86\Debug\AIO_Simultaneous_UI.csprojAssemblyReference.cache
+C:\Users\MVA\Desktop\button\AI_Simultaneous_9524_204C.20170807_test\obj\x86\Debug\AIO_Simultaneous_UI.frm_main.resources
+C:\Users\MVA\Desktop\button\AI_Simultaneous_9524_204C.20170807_test\obj\x86\Debug\AIO_Simultaneous_UI.Properties.Resources.resources
+C:\Users\MVA\Desktop\button\AI_Simultaneous_9524_204C.20170807_test\obj\x86\Debug\AIO_Simultaneous_UI.csproj.GenerateResource.cache
+C:\Users\MVA\Desktop\button\AI_Simultaneous_9524_204C.20170807_test\obj\x86\Debug\AIO_Simultaneous_UI.csproj.CoreCompileInputs.cache
+C:\Users\MVA\Desktop\button\AI_Simultaneous_9524_204C.20170807_test\obj\x86\Debug\AIO_Simultaneous_UI.csproj.CopyComplete
+C:\Users\MVA\Desktop\button\AI_Simultaneous_9524_204C.20170807_test\obj\x86\Debug\AIO_Simultaneous_UI.exe
+C:\Users\MVA\Desktop\button\AI_Simultaneous_9524_204C.20170807_test\obj\x86\Debug\AIO_Simultaneous_UI.pdb
+C:\Users\MVA\Desktop\button\AI_Simultaneous_9524_204C.20170807_test\bin\Debug\AIO_Simultaneous_UI.pdb
